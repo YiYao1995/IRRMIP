@@ -69,3 +69,12 @@ Probability ratio calculations are done by:
 
 **ProbabilityRatio_calcu_NorESM_par3.ipynb**
 
+Hours of moist-heat events of different groups of grid cells are calculated by:
+
+**Event_hours_calcu_CESM2_CESM2_gw_NorESM.ipynb**
+
+**Event_hours_calcu_CNRM.ipynb**
+
+**Event_hours_calcu_E3SM.ipynb**
+
+**Event_hours_calcu_IPSL.ipynb**
