@@ -78,3 +78,17 @@ Hours of moist-heat events of different groups of grid cells are calculated by:
 **Event_hours_calcu_E3SM.ipynb**
 
 **Event_hours_calcu_IPSL.ipynb**
+
+For plottings, see:
+
+**Plot_irrigated_fraction_and_irrigation_water_withdrawal_maps.ipynb**
+
+**Plot_irrigated_fraction_and_irrigation_water_withdrawal_timeseries.ipynb**
+
+**Plot_Energy_flux_maps.ipynb**
+
+**Plot_Probability_Ratio.ipynb**
+
+**Plot_Probability_Value.ipynb**
+
+**Plot_Event_hours_timeseries.ipynb**
